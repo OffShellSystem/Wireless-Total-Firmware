@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# //Programa creado por OffShell System. Versión 1.1
 # //Solución para posibles problemas con la tarjeta de red inalámbrica.
 clear
 echo "                                                               "
