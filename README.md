@@ -10,6 +10,5 @@ It works and corrects errors of 80% of network cards. Debian distributions and d
     3. Grant permissions to the program with the "chmod + x" command.
     4. Run the program with the command "./Wireless-Total-Firmware".
     Remenber --> ¡¡¡ It must be run as root user !!!
-# OffShell System. Technological soul. Computer passion. Thanks for use our programs.
-# Visit the OffShell System Blog: https://offshellsystem.blogspot.com/
-# Facebook: https://www.facebook.com/offshell.system
+# OffShell System Comunity. Technological soul. Computer passion. Thanks for use our programs.
+# Visit the OffShell System Comunity Blog: https://offshellsystem.blogspot.com/
